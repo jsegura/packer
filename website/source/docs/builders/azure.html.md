@@ -53,7 +53,7 @@ builder.
 
 -   `location` (string) Azure datacenter in which your VM will build.
 
-    CLI example `azure location list`
+    CLI example `azure vm location list`
 
 ### Optional:
 
